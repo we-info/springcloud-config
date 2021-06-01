@@ -10,7 +10,7 @@ spring:
           search-paths:
             - springcloud-config
       ####读取分支
-      label: master6
+      label: master7
 
 #服务注册到eureka地址
 eureka:
